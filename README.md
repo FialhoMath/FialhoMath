@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 
 My name is Matheus Fialho and I'm a Computer Science undergraduate at CESAR School.  
-I'm currently in my second semester of college, and I've already learned a lot about coding and how to collaborate effectively in teams.
+I'm currently in my third semester of college, and I've already learned a lot about coding and how to collaborate effectively in teams.
 
 ---
 
@@ -15,7 +15,7 @@ I'm currently in my second semester of college, and I've already learned a lot a
 - HTML5 📄  
 - CSS3 🎨  
 - JavaScript ⚡  
-- Arduino ⚙️
+- Java ☕
 
 ---
 
@@ -32,6 +32,8 @@ I'm currently in my second semester of college, and I've already learned a lot a
 - HTML
 - CSS
 - JavaScript
+- Java
+- C
 
  
 <p align="left">
